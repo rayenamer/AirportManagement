@@ -1,0 +1,17 @@
+C:\Users\User\Downloads\AirportManagement\AirportManagement\AM.Infrastructure\bin\Debug\net8.0\AM.Infrastructure.deps.json
+C:\Users\User\Downloads\AirportManagement\AirportManagement\AM.Infrastructure\bin\Debug\net8.0\AM.Infrastructure.runtimeconfig.json
+C:\Users\User\Downloads\AirportManagement\AirportManagement\AM.Infrastructure\bin\Debug\net8.0\AM.Infrastructure.dll
+C:\Users\User\Downloads\AirportManagement\AirportManagement\AM.Infrastructure\bin\Debug\net8.0\AM.Infrastructure.pdb
+C:\Users\User\Downloads\AirportManagement\AirportManagement\AM.Infrastructure\bin\Debug\net8.0\AM.ApplicationCore.dll
+C:\Users\User\Downloads\AirportManagement\AirportManagement\AM.Infrastructure\bin\Debug\net8.0\AM.ApplicationCore.pdb
+C:\Users\User\Downloads\AirportManagement\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\AirportManagement\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\AirportManagement\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\AirportManagement\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Downloads\AirportManagement\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\AirportManagement\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infra.6BD442B8.Up2Date
+C:\Users\User\Downloads\AirportManagement\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.dll
+C:\Users\User\Downloads\AirportManagement\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\refint\AM.Infrastructure.dll
+C:\Users\User\Downloads\AirportManagement\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.pdb
+C:\Users\User\Downloads\AirportManagement\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\AM.Infrastructure.genruntimeconfig.cache
+C:\Users\User\Downloads\AirportManagement\AirportManagement\AM.Infrastructure\obj\Debug\net8.0\ref\AM.Infrastructure.dll

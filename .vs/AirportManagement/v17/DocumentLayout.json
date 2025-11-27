@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ghodb\\OneDrive\\Bureau\\c#\\AirportManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14CEF8BA-EC12-4440-AAB6-EA517F1A23F1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghodb\\onedrive\\bureau\\c#\\airportmanagement\\am.applicationcore\\domaine\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CEF8BA-EC12-4440-AAB6-EA517F1A23F1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domaine\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CEF8BA-EC12-4440-AAB6-EA517F1A23F1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghodb\\onedrive\\bureau\\c#\\airportmanagement\\am.applicationcore\\service\\serviceflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CEF8BA-EC12-4440-AAB6-EA517F1A23F1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\service\\serviceflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F406A5C8-7577-4E22-85E6-3F7B1B572B09}|AM.UI.Console\\AM.UI.Console.csproj|c:\\users\\ghodb\\onedrive\\bureau\\c#\\airportmanagement\\am.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F406A5C8-7577-4E22-85E6-3F7B1B572B09}|AM.UI.Console\\AM.UI.Console.csproj|solutionrelative:am.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CEF8BA-EC12-4440-AAB6-EA517F1A23F1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghodb\\onedrive\\bureau\\c#\\airportmanagement\\am.applicationcore\\interface\\iserviceflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CEF8BA-EC12-4440-AAB6-EA517F1A23F1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interface\\iserviceflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CEF8BA-EC12-4440-AAB6-EA517F1A23F1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghodb\\onedrive\\bureau\\c#\\airportmanagement\\am.applicationcore\\domaine\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CEF8BA-EC12-4440-AAB6-EA517F1A23F1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domaine\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CEF8BA-EC12-4440-AAB6-EA517F1A23F1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghodb\\onedrive\\bureau\\c#\\airportmanagement\\am.applicationcore\\domaine\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CEF8BA-EC12-4440-AAB6-EA517F1A23F1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domaine\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CEF8BA-EC12-4440-AAB6-EA517F1A23F1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghodb\\onedrive\\bureau\\c#\\airportmanagement\\am.applicationcore\\domaine\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CEF8BA-EC12-4440-AAB6-EA517F1A23F1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domaine\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CEF8BA-EC12-4440-AAB6-EA517F1A23F1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghodb\\onedrive\\bureau\\c#\\airportmanagement\\am.applicationcore\\domaine\\traveller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CEF8BA-EC12-4440-AAB6-EA517F1A23F1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domaine\\traveller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14CEF8BA-EC12-4440-AAB6-EA517F1A23F1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghodb\\onedrive\\bureau\\c#\\airportmanagement\\am.applicationcore\\domaine\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14CEF8BA-EC12-4440-AAB6-EA517F1A23F1}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domaine\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ghodb\\OneDrive\\Bureau\\c#\\AirportManagement\\AM.UI.Console\\Program.cs",
+              "RelativeDocumentMoniker": "AM.UI.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\ghodb\\OneDrive\\Bureau\\c#\\AirportManagement\\AM.UI.Console\\Program.cs",
+              "RelativeToolTip": "AM.UI.Console\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:25:03.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestData.cs",
+              "DocumentMoniker": "C:\\Users\\ghodb\\OneDrive\\Bureau\\c#\\AirportManagement\\AM.ApplicationCore\\Domaine\\TestData.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domaine\\TestData.cs",
+              "ToolTip": "C:\\Users\\ghodb\\OneDrive\\Bureau\\c#\\AirportManagement\\AM.ApplicationCore\\Domaine\\TestData.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domaine\\TestData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:39:59.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceFlight.cs",
+              "DocumentMoniker": "C:\\Users\\ghodb\\OneDrive\\Bureau\\c#\\AirportManagement\\AM.ApplicationCore\\Service\\ServiceFlight.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Service\\ServiceFlight.cs",
+              "ToolTip": "C:\\Users\\ghodb\\OneDrive\\Bureau\\c#\\AirportManagement\\AM.ApplicationCore\\Service\\ServiceFlight.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Service\\ServiceFlight.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwDYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:35:16.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IServiceFlight.cs",
+              "DocumentMoniker": "C:\\Users\\ghodb\\OneDrive\\Bureau\\c#\\AirportManagement\\AM.ApplicationCore\\Interface\\IServiceFlight.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interface\\IServiceFlight.cs",
+              "ToolTip": "C:\\Users\\ghodb\\OneDrive\\Bureau\\c#\\AirportManagement\\AM.ApplicationCore\\Interface\\IServiceFlight.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interface\\IServiceFlight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:34:10.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "C:\\Users\\ghodb\\OneDrive\\Bureau\\c#\\AirportManagement\\AM.ApplicationCore\\Domaine\\Passenger.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domaine\\Passenger.cs",
+              "ToolTip": "C:\\Users\\ghodb\\OneDrive\\Bureau\\c#\\AirportManagement\\AM.ApplicationCore\\Domaine\\Passenger.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domaine\\Passenger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:48:36.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\ghodb\\OneDrive\\Bureau\\c#\\AirportManagement\\AM.ApplicationCore\\Domaine\\Flight.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domaine\\Flight.cs",
+              "ToolTip": "C:\\Users\\ghodb\\OneDrive\\Bureau\\c#\\AirportManagement\\AM.ApplicationCore\\Domaine\\Flight.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domaine\\Flight.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:43:28.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "C:\\Users\\ghodb\\OneDrive\\Bureau\\c#\\AirportManagement\\AM.ApplicationCore\\Domaine\\Plane.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domaine\\Plane.cs",
+              "ToolTip": "C:\\Users\\ghodb\\OneDrive\\Bureau\\c#\\AirportManagement\\AM.ApplicationCore\\Domaine\\Plane.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domaine\\Plane.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAzwCAAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:32:42.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Traveller.cs",
+              "DocumentMoniker": "C:\\Users\\ghodb\\OneDrive\\Bureau\\c#\\AirportManagement\\AM.ApplicationCore\\Domaine\\Traveller.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domaine\\Traveller.cs",
+              "ToolTip": "C:\\Users\\ghodb\\OneDrive\\Bureau\\c#\\AirportManagement\\AM.ApplicationCore\\Domaine\\Traveller.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domaine\\Traveller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:53:07.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\ghodb\\OneDrive\\Bureau\\c#\\AirportManagement\\AM.ApplicationCore\\Domaine\\Staff.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domaine\\Staff.cs",
+              "ToolTip": "C:\\Users\\ghodb\\OneDrive\\Bureau\\c#\\AirportManagement\\AM.ApplicationCore\\Domaine\\Staff.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domaine\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:53:00.97Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
