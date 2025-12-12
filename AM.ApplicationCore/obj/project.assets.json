@@ -690,19 +690,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "/home/rayounouna/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\AirportManagement\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
+      "projectUniqueName": "/home/rayounouna/AirportManagement/AM.ApplicationCore/AM.ApplicationCore.csproj",
       "projectName": "AM.ApplicationCore",
-      "projectPath": "C:\\Users\\User\\Downloads\\AirportManagement\\AirportManagement\\AM.ApplicationCore\\AM.ApplicationCore.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\AirportManagement\\AirportManagement\\AM.ApplicationCore\\obj\\",
+      "projectPath": "/home/rayounouna/AirportManagement/AM.ApplicationCore/AM.ApplicationCore.csproj",
+      "packagesPath": "/home/rayounouna/.nuget/packages/",
+      "outputPath": "/home/rayounouna/AirportManagement/AM.ApplicationCore/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/rayounouna/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -720,11 +720,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -752,7 +747,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.121/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
